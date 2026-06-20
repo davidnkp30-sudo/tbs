@@ -1,0 +1,12 @@
+{
+  "test-ux-001": {
+    "hwid": "45d7af7c1444c1ece42c",
+    "active": true,
+    "expires": "2028-12-31"
+  },
+  "tetetanto-ux-002": {
+    "hwid": "PUT_HWID_2",
+    "active": true,
+    "expires": "2026-12-31"
+  }
+}
